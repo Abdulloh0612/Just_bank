@@ -21,9 +21,8 @@ type Person struct {
 
 func Log_in() int {
 	fmt.Println("--------------------------")
-	fmt.Println("Log_in")
-	fmt.Println("")
-	fmt.Println("0. Exist")
+	fmt.Println("Log_in ")
+	fmt.Println("0. Exist ")
 	fmt.Println("")
 
 	var Id, Password string
