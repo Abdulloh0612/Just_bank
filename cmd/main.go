@@ -1,10 +1,8 @@
 package main
 
 import (
-	"Go_Projects/Just_bank/Just_bank/Registration"
-	"Go_Projects/Just_bank/Just_bank/UserWindow"
-
-	_ "github.com/go-sql-driver/mysql"
+	"Go_Projects/Just_bank/Registration"
+	"Go_Projects/Just_bank/UserWindow"
 )
 
 type User struct {

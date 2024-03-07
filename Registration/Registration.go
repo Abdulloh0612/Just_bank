@@ -1,7 +1,7 @@
 package Registration
 
 import (
-	"Go_Projects/Just_bank/Just_bank/Log_in"
+	"Go_Projects/Just_bank/Log_in"
 	"database/sql"
 	"fmt"
 	"log"

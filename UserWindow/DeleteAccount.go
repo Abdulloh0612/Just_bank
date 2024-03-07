@@ -1,7 +1,7 @@
 package UserWindow
 
 import (
-	"Go_Projects/Just_bank/Just_bank/Registration"
+	"Go_Projects/Just_bank/Registration"
 	"database/sql"
 	"fmt"
 	"log"
